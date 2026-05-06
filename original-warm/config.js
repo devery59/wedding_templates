@@ -18,29 +18,29 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "신랑",
-    father: "아버지",
-    mother: "어머니",
+    name: "김건희",
+    father: "김형욱",
+    mother: "이정화",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   bride: {
-    name: "신부",
-    father: "아버지",
-    mother: "어머니",
+    name: "임우진",
+    father: "임효진",
+    mother: "인우영",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   wedding: {
-    date: "2050-01-01",
-    time: "13:11",
-    venue: "예식장 이름",
-    address: "예식장 주소",
+    date: "2027-04-24",
+    time: "17:00",
+    venue: "연세대 동문회관",
+    address: "서울특별시 서대문구 연세로 50 (신촌동 134번지)",
     mapLinks: {
-      kakao: "https://map.kakao.com/",
-      naver: "https://map.naver.com/"
+      kakao: "https://place.map.kakao.com/17808430",
+      naver: "https://naver.me/FEUO3qlq"
     }
   },
 
@@ -70,6 +70,6 @@ const CONFIG = {
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
     title: "신랑 ♥ 신부 결혼합니다",
-    description: "2050년 1월 1일, 소중한 분들을 초대합니다."
+    description: "2027년 4월 24일, 소중한 분들을 초대합니다."
   }
 };
